@@ -50,6 +50,9 @@ def test_roman_1(num: int, roman: str):
 
 #for i in range(len(char)):
 #  if char[i] == "V":
+
+  # change so if char[i] > char [i+1]
+
 #    if char[i+1] == "I":
 #      number += lookup[i]-1
 #      i = i+2
